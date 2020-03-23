@@ -1,3 +1,10 @@
+<script type='text/javascript'>
+//<![CDATA[
+
+// ------------------------------------
+// Template Configuration
+// ------------------------------------
+
 var DefaultConfig = {
 
 	// ------------------------------------
@@ -29,3 +36,5 @@ var DefaultConfig = {
     blogUrl: window.location.protocol + "//" + window.location.host
 
 };
+//]]>
+</script>
